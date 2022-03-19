@@ -1,0 +1,10 @@
+
+h1 {
+    color: red;
+    font-size: 30px;
+}
+
+.image {
+    height: 200px;
+    background: ('../photo/112.jpeg')
+}
